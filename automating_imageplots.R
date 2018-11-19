@@ -2,7 +2,7 @@
 
 ##Script for automating putting images into a table
 
-##amiriamguercio  (Angelica Guercio) 2018
+##amguercio  (Angelica Guercio) 2018
 
 ##A function to plot your images, given a prefixes for the filenames you wish to plot
 ##default plots all files with the same prefix as one row (in order within that row left to right), you can change the row/col layout
